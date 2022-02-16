@@ -17,7 +17,7 @@
 
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/swarnim0711/)
 
-- 👨‍💻 To know more about me, please check my [Resume](https://github.com/Lokesh-Attarde/Resume/blob/3e804ac8b22e392bb6c9b6724bb923419d1647eb/(GitHub)%20Lokesh%20Attarde%20Data%20Analyst%20Resume.pdf)
+- 👨‍💻 To know more about me, please check my [Resume]()
 
 - ⚡ Fun fact: **I am fitness freak.**
 

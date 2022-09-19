@@ -6,7 +6,7 @@
 
 - 💻 I’m currently working as a **Application Development Analyst** at **Accenture Solutions Pvt. Ltd.**
 
-- 🌱 I keep explore about **Data Analysis with Python**
+- 🌱 I keep exploring about **Data Analysis with Python**
 
 - 📚 Areas of Interest: **Python, Data Cleaning/Cleansing, Data Visualization, Data Analysis, SQL, Power BI. **
 

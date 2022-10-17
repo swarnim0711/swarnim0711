@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Swarnim Tripathi</h1>
-<h3 align="center">A passionate Data Scientist from India.</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 
 <img align="right" alt="Coding" width="450" height="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
@@ -19,6 +19,15 @@
 - 👨‍💻 To know more about me, please check my [Resume]()
 
 - ⚡ Fun fact: **I am fitness freak.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/swarnim0711/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swarnim0711/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/swarnim0711/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/swarnim0711/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/swarnim.tripathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/swarnim.tripathi/" height="30" width="40" /></a>
+
+
+</p>
 
 
 <h3 align="left">🖥️ Languages and Tools: 🛠️</h3>

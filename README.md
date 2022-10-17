@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Swarnim Tripathi</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 
 
 <img align="right" alt="Coding" width="450" height="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
